@@ -8,3 +8,8 @@
 - https://www.nslookup.io/
 - https://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html
 - https://developer.mozilla.org/en-US/
+
+## Herramientas
+
+- Visual Studio Code https://code.visualstudio.com/
+- Git https://git-scm.com/
