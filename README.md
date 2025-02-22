@@ -9,6 +9,8 @@
 - Conocer ip de Sitio https://www.nslookup.io/
 - Primer Sitio de Internet https://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html
 - Mozilla Developer Docs https://developer.mozilla.org/en-US/
+- W3 Schools https://www.w3schools.com/
+- DevDocs https://devdocs.io/
 
 ### Trabajo Freelance
 - Workana https://www.workana.com/es/work
@@ -20,3 +22,8 @@
 - Visual Studio Code https://code.visualstudio.com/
 - Git https://git-scm.com/
 - Minifier https://www.minifier.org/
+- App Brewery Web Development Course Resources https://appbrewery.com/p/web-development-course-resources
+- Entorno web de desarrollo: Replit https://replit.com/
+- Otro entorno de desarrollo web online: CodePen https://codepen.io/
+- CheatSheet de Emmet https://docs.emmet.io/cheat-sheet/
+- Caracteres Unicode https://symbl.cc/
