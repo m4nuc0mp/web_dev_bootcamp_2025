@@ -9,6 +9,9 @@
 - Conocer ip de Sitio https://www.nslookup.io/
 - Primer Sitio de Internet https://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html
 - Mozilla Developer Docs https://developer.mozilla.org/en-US/
+- Stack Overflow https://stackoverflow.com/questions
+- ECMA Script https://ecma-international.org/technical-committees/tc39/?tab=general
+- CSS Working Group Editor Drafts https://drafts.csswg.org/
 
 ### Trabajo Freelance
 - Workana https://www.workana.com/es/work
@@ -20,4 +23,4 @@
 - Visual Studio Code https://code.visualstudio.com/
 - Git https://git-scm.com/
 - Minifier https://www.minifier.org/
-- Picsum Photos https://picsum.photos/
+- Lorem Picsum https://picsum.photos/
